@@ -1,0 +1,13 @@
+<SCENARIO scenarioName="myFullSimScenario">
+    <SIMULATION_PARAMETERS
+		SimStartJD      = "2459295.0"
+		SimStartSeconds = "0.0"
+		SimEndSeconds   = "96000">
+    </SIMULATION_PARAMETERS>
+
+    <SCHEDULER_PARAMETERS
+		maxNumSchedules = "80"
+		numSchedCropTo  = "80"
+		simStepSeconds  = "24000">
+    </SCHEDULER_PARAMETERS>
+</SCENARIO>
