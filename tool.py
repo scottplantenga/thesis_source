@@ -1,3 +1,5 @@
+# Copyright (c) 2021-2024 Scott Plantenga
+
 import sys
 import clr
 import System.Collections.Generic
